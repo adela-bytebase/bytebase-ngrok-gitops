@@ -1,2 +1,2 @@
 ALTER TABLE "public"."employee"
-   ADD COLUMN "nick_name" text;
+   ADD COLUMN "nickname" text;
